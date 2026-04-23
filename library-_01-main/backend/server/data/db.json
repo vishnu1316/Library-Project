@@ -260,6 +260,14 @@
       "_id": "9xyp4zb2m",
       "id": "dn8acm4nn",
       "createdAt": "2026-04-23T04:21:06.948Z"
+    },
+    {
+      "user": "System Admin",
+      "action": "LOGIN",
+      "details": "Successful login from admin@lib.edu",
+      "_id": "duj1u7cbf",
+      "id": "ku3w1cxkc",
+      "createdAt": "2026-04-23T06:09:12.748Z"
     }
   ],
   "settings": {
